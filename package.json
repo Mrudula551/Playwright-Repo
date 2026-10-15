@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "playwright": "^1.62.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.3.0",
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0",
+    "type": "module",
+    "allure-commandline": "^2.46.1",
+    "allure-playwright": "^3.13.0"
+  },
+  "scripts": {}
+}
